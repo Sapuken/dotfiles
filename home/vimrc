@@ -1,0 +1,5 @@
+set nu!
+set laststatus=2
+set wildmenu
+set mouse=a
+set title
