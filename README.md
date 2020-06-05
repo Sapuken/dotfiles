@@ -1,11 +1,10 @@
 # dotfiles
 ## Setup
-- Operating System: `CloverOS`
+- Operating System: `ArchLinux`
 - Application Launcher: `dmenu`
 - Shell: `zsh`
 - Terminal Emulator: `st`
 - Text Editor: `vim`
-- Video Player/Music: `vlc`
-- Player/Image Viewer: `sxiv`
+- Video Player/Music Player/Image Viewer: `mpv`
 - Web Browser: `firefox`
 - Window Manager: `openbox`
