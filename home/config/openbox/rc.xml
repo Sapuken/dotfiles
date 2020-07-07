@@ -27,7 +27,7 @@
   <placement>
     <policy>Smart</policy>
     <!-- 'Smart' or 'UnderMouse' -->
-    <center>yes</center>
+o   <center>yes</center>
     <!-- whether to place windows in the center of the free area found or
        the top left corner -->
     <monitor>Primary</monitor>
@@ -321,9 +321,9 @@
       </action>
     </keybind>
     <!-- Or -->
-    <keybind key="W-m">
+    <keybind key="W-l">
       <action name="Execute">
-        <command>mpdmenu</command>
+        <command>betterlockscreen -l</command>
       </action>
     </keybind>
     <!-- Keybindings for running applications -->
