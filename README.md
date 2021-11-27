@@ -1,10 +1,11 @@
 # dotfiles
 ## Setup
-- Operating System: `ArchLinux`
+- Operating System: `Gentoo`
 - Application Launcher: `dmenu`
-- Shell: `zsh`
-- Terminal Emulator: `st`
-- Text Editor: `vim`
-- Video Player/Music Player/Image Viewer: `mpv`
-- Web Browser: `firefox`
-- Window Manager: `openbox`
+- Shell: `Bash`
+- Terminal Emulator: `Rxvt`
+- Text Editor: `Vim`
+- Video Player/Music Player: `Mpv`
+- Image Viewer: `Feh`
+- Web Browser: `Brave`
+- Window Manager: `Openbox`
